@@ -1,0 +1,7 @@
+Self Documenting Code
+
+Self documenting code uses well chosen variable names (and function names) to make the code read as close to English as possible. This should be your goal.
+
+For example, naming a variable g has little meaning, but naming a variable gravity gives a much better description of what the variable should contain.
+
+By using proper variable and function names, you should minimize the amount of "external" documentation that is necessary

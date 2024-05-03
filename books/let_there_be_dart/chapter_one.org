@@ -1,0 +1,41 @@
+#+title: Once Upon a Time
+
+# Understanding the origins and purpose of Dart.
+# Overview of Dart's key features and advantages.
+# Evolution of the Dart language.
+The Dart programming language was created by Google with the intention of addressing challenges in web development and providing a modern, efficient, and scalable language for building web and mobile applications. Here's a breakdown of how Dart was created and the motivations behind it:
+
+    Motivations for Creation:
+        Performance: Google sought a language that could deliver high performance for web applications, especially in terms of speed and efficiency.
+        Productivity: There was a need for a language that could improve developer productivity by offering features such as strong typing, concurrency support, and a modern syntax.
+        Scalability: As web applications became more complex, Google aimed to create a language that could scale well with large codebases and teams.
+
+    Development Timeline:
+        2006-2011: Google started exploring options for a new language to address the shortcomings of JavaScript for building large-scale web applications.
+        2011: Dart was officially announced by Google at the GOTO conference in Aarhus, Denmark. The language was introduced as an alternative to JavaScript for web development.
+        2013: Dart 1.0 was released, marking a significant milestone in the language's development and stability.
+        2015: Dart 2.0 was released, focusing on improving performance, productivity, and compatibility with other languages and frameworks.
+
+    Key Features:
+        Strong Typing: Dart offers optional static typing, allowing developers to catch errors early in the development process and improve code reliability.
+        Just-in-Time (JIT) and Ahead-of-Time (AOT) Compilation: Dart supports both JIT and AOT compilation, providing flexibility in optimizing performance for different use cases.
+        Asynchronous Programming: Dart includes built-in support for asynchronous programming, making it easier to write concurrent and responsive applications.
+        Modern Syntax: Dart features a clean and familiar syntax, making it accessible to developers coming from other programming languages.
+        Developer Tooling: Google provides a comprehensive set of developer tools for Dart, including an integrated development environment (IDE) called DartPad and debugging support.
+
+    Ecosystem and Adoption:
+        Dart has gained traction in various domains, including web development, mobile app development (via the Flutter framework), and server-side programming.
+        The Flutter framework, which uses Dart as its primary language, has contributed significantly to Dart's popularity, especially in the realm of cross-platform mobile app development.
+        Dart has an active and growing community of developers, contributing libraries, frameworks, and tools to the ecosystem.
+
+Overall, Dart was created by Google to address the evolving needs of web and mobile application development, focusing on performance, productivity, and scalability. Its development has been guided by feedback from developers and the broader software development community.
+
+
+
+* Dart Design Principles
+** dart versions
+* Setting Things Up
+** installation of tools
+** dart pad
+* Hello Dart!
+** dart vm and how dart executes

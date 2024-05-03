@@ -1,0 +1,42 @@
+:PROPERTIES:
+:REFINEMENT: 0002
+:END:
+#+title: Comments
+
+#+begin_quote
+Any code of your own that you haven't looked at for six or more months might as
+well have been written by someone else.
+- Eagleson's Law
+#+end_quote
+
+In programming, comments are essential for improving code comprehension. Across
+various programming languages, comments serve as guides, helping to bridge the
+gap between the technical language of code and human understanding. While code
+should ideally be clear on its own, comments provide additional explanations and
+context, making it easier for developers to understand and work with the code,
+thereby facilitating maintenance and troubleshooting. Furthermore, it's
+important to note that comments are eliminated before compilation and therefore
+do not impact runtime performance, ensuring that the execution of the code
+remains unaffected.
+
+Comments can effectively document code, sometimes eliminating the need for
+additional means to describe its functionality. With proper usage, code
+documentation can be achieved solely through comments. Additionally, there are
+tools available that can extract comments from source code and generate a
+compact, formatted document. These tools often require comments to be written in
+specific formats and can create links to various parts of code elements, thereby
+facilitating easier code comprehension.
+
+Comments in programming languages come in two forms: single-line and multiline
+(or block) comments. Each language utilizes special symbols to denote the
+beginning and end of comments. Single-line comments typically start with the
+special symbol and extend to the end of the line. On the other hand, multiline
+comments begin with a specific symbol and conclude with its corresponding ending
+symbol. The rules governing comment syntax are defined by the grammar of each
+programming language.
+
+It is widely accepted that block comments are employed to document large
+sections of code, such as files or classes. Conversely, single-line comments are
+brief and are typically placed before or alongside code that lacks
+self-explanation. Importantly, it's worth noting that several consecutive
+single-line comments can be used to convey a block-like comment within the code.

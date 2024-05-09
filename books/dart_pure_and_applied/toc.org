@@ -1,9 +1,36 @@
-#+STARTUP: overview
-#+title: The Dart Story
-#+subtitle: Tales of using Dart to program everything everywhere
+* Part I: Let there be Dart
+** Chapter One: Once Upon a Time, Dart
+# why someone ends up with dart
+# other competitors and comparison with dart
+# a little bit of history
+** Chapter two: Hello Dart!
+*** Dart Design Principles
+*** Setting things up
+*** Hello Dart!
 
-#+include: ./chapter_one.org
+* Part II: Fundamentals
+** Chapter three:
+** Chapter Four:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------
 
 * Fundamentals
 ** Comments for clarification

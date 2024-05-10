@@ -18,8 +18,13 @@
 # how dart executes a program 
 # syntactic sugar 
 # overview of the whole Dart language 
+# aot compiler vs jit compiler
 
 ** Chapter THREE: First things first 
+# setting up multiple ides
+# simplest possible program in dart
+# how to debug
+# how to trace 
 *** Setting things up
 *** Hello Dart!
 

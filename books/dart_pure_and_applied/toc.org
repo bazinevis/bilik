@@ -1,95 +1,108 @@
 #+startup: overview
 #+title: Table of Contents
 
++ Preface
+# whose this book is for?
+# someone who has a base understanding of programming concepts
+
 * PART I: LET THERE BE DART
----------------------------
-** CHAPTER ONE: TARGETING EVERYTHING 
-# why we need cross platform development 
+** CHAPTER ONE: TARGETING EVERYTHING
+# why we need cross platform development
 # how cross platform frameworks work in detail
 # introducing cross platform frameworks exist in market
-# comparing cross platform frameworks in detail 
-# languages used by these frameworks 
+# comparing cross platform frameworks in detail
+# languages used by these frameworks
+# trade offs should be considered in cross platform development
 
-** CHAPTER TWO: ONCE UPON A TIME, DART 
+** CHAPTER TWO: ONCE UPON A TIME, DART
 # why someone ends up with dart
 # a little bit of history
 # Dart wants to target everything
-# dart first want to target web but now everything 
-# dart design principles 
-# how dart executes a program 
-# syntactic sugar 
-# overview of the whole Dart language 
+# dart first want to target web but now everything
+# dart design principles
+# how dart executes a program
+# overview of the whole Dart language
 # aot compiler vs jit compiler
+# dart cons and pros
+# dart future
+# dart is known by flutter framework
+# what sb should want to end up with dart? dart answer to what questions
+# how dart render gui and use native API
 
-** CHAPTER THREE: FIRST THINGS FIRST 
-# setting up multiple ides
+** CHAPTER THREE: FIRST THINGS FIRST
+# setting up multiple IDEs
 # simplest possible program in dart
 # how to debug
-# how to trace 
+# how to trace
 # Setting things up
 # Hello Dart!
 
 
 * PART II: LEARNING TO PLAY DART
---------------------------------
-** CHAPTER FOUR: BASIC CONCEPTS
+** CHAPTER FOUR: DART DESIGN PRINCIPLES
+# why dart desiged this way
+# what trade offs considered in dart
+# syntactic sugars
+# everything is object
+# type safety
+# type insurance?
+
+** CHAPTER FIVE: TALKING IN DART
 # Comments & documenting code
-# variables 
+# defining variables
+# constants & finals?
+# var
+# operators
+# operators precedence
+# spread operator
+# Statements & Expressions
+# controlling the flow
+# conditionals
+# if else
+# loops
+# for loop
+# while loop
+# do while loop
+# for in loop
+# switch statement
+# break and continue
+# functions
+# classes
 
-*** Statements & Expressions
-**** control flow
-***** conditionals
-****** if else
-***** loops
-****** for loop
-****** while loop
-****** do while loop
-****** for in loop
-***** switch statement
-***** break and continue
-
-** Chapter three: Objects & Nothing More
-*** objects and nothing more
-**** everything is an object
-**** classes
-***** creating objects
-***** default constructor
-***** inheritance
-***** extends keyword
-***** super keyword
-***** polymorphism
-****** static polymorphism
-****** dynamic polymorphism
-***** encapsulation
-***** abstract classes and methods
-***** interfaces
-***** callable classes
-***** accessors
-***** getters and setters
-***** noSuchMethod
-***** constant objects and fields
-***** metaclass
-***** finals
-***** identity and equality
-**** private member class
-**** mixins
-**** all kinds of object constructors
-***** generative constructor
-***** constructor with optional parameters
-***** named constructors
-***** syntactic sugar
-***** redirecting constructors
-***** private constructors
-***** factory constructors
-***** constant constructors
-
-** Chapter Four: Controlling The Flow
-*** Functions
-**** functions as objects
-**** closures
-**** function types
-**** named and optional parameters
-**** anonymous functions and arrow syntax
+** Chapter SIX: Objects & Nothing More
+# everything is an object
+# classes
+# creating objects
+# default constructor
+# inheritance
+# extends keyword
+# super keyword
+# polymorphism
+# static polymorphism
+# dynamic polymorphism
+# encapsulation
+# abstract classes and methods
+# interfaces
+# callable classes
+# accessors
+# getters and setters
+# noSuchMethod
+# constant objects and fields
+# metaclass
+# finals
+# identity and equality
+*** private member class
+*** Metadata
+*** all kinds of object constructors
+**** generative constructor
+**** constructor with optional parameters
+**** named constructors
+**** syntactic sugar
+**** redirecting constructors
+**** private constructors
+**** factory constructors
+**** constant constructors
+*** mixins
 *** Type System
 **** type checking
 **** type conversion
@@ -97,6 +110,12 @@
 **** type test - is keyword
 **** casting
 **** static type
+*** Functions
+**** functions as objects
+**** closures
+**** function types
+**** named and optional parameters
+**** anonymous functions and arrow syntax
 *** data types
 **** type inference
 **** var keyword
@@ -104,13 +123,32 @@
 ***** collection if
 ***** collection for
 **** iterators
-*** operators
-**** operators precedence
-**** spread operator
+** CHAPTER NINE: ADVANCED CONCEPTS
 *** generic
 **** generic functions
 **** generic collection
-** Dart API
+*** Meta Programming
+**** code generation
+*** security
+*** client server programming
+*** extensions
+*** packages
+**** creating and publishing a package
+**** pub tool
+*** internationalization
+*** Exception Handling
+**** finally
+**** try catch
+**** rethrow
+**** stack traces
+**** custom exception
+**** asynchronous error handling
+*** Concurrency
+**** future
+**** zones
+**** async and await keywords
+**** streams
+** CHAPTER TEN: Dart API
 *** dart:core
 *** dart:math
 *** dart:io
@@ -126,30 +164,6 @@
 *** lists
 *** maps
 *** sets
-*** Implementing data structures
-** Advanced Concepts
-*** Metadata
-*** Concurrency
-**** future
-**** zones
-**** async and await keywords
-**** streams
-*** Exception Handling
-**** finally
-**** try catch
-**** rethrow
-**** stack traces
-**** custom exception
-**** asynchronous error handling
-*** packages
-**** creating and publishing a package
-**** pub tool
-*** internationalization
-*** extensions
-*** client server programming
-*** security
-*** Meta Programming
-**** code generation
 
 
 * PART III: Structuring Data Using Dart
@@ -158,6 +172,6 @@
 
 
 * PART IV: Embedding Dart Everywhere
-** dart and html
-** calling dart from javascript
-** dart and JavaScript inter operation
+# dart and html
+# calling dart from javascript
+# dart and JavaScript inter operation

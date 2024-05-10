@@ -1,15 +1,16 @@
 #+startup: overview
 #+title: Table of Contents
 
-* PART I: Let there be Dart
-** CHAPTER ONE: Targeting Everything
+* PART I: LET THERE BE DART
+---------------------------
+** CHAPTER ONE: TARGETING EVERYTHING 
 # why we need cross platform development 
 # how cross platform frameworks work in detail
 # introducing cross platform frameworks exist in market
 # comparing cross platform frameworks in detail 
 # languages used by these frameworks 
 
-** Chapter TWO: Once Upon a Time, Dart
+** CHAPTER TWO: ONCE UPON A TIME, DART 
 # why someone ends up with dart
 # a little bit of history
 # Dart wants to target everything
@@ -20,20 +21,21 @@
 # overview of the whole Dart language 
 # aot compiler vs jit compiler
 
-** Chapter THREE: First things first 
+** CHAPTER THREE: FIRST THINGS FIRST 
 # setting up multiple ides
 # simplest possible program in dart
 # how to debug
 # how to trace 
-*** Setting things up
-*** Hello Dart!
+# Setting things up
+# Hello Dart!
 
 
-* PART II: Learning to play Dart
-** Chapter Three: Basic Concepts
-*** Comments for clarification
-**** dart doc
-*** variables
+* PART II: LEARNING TO PLAY DART
+--------------------------------
+** CHAPTER FOUR: BASIC CONCEPTS
+# Comments & documenting code
+# variables 
+
 *** Statements & Expressions
 **** control flow
 ***** conditionals
@@ -45,6 +47,7 @@
 ****** for in loop
 ***** switch statement
 ***** break and continue
+
 ** Chapter three: Objects & Nothing More
 *** objects and nothing more
 **** everything is an object
@@ -81,7 +84,6 @@
 ***** constant constructors
 
 ** Chapter Four: Controlling The Flow
-** Fundamentals
 *** Functions
 **** functions as objects
 **** closures
@@ -153,6 +155,8 @@
 * PART III: Structuring Data Using Dart
 ** Chapter Ten: Tree
 ** Chapter Eleven: Heap
+
+
 * PART IV: Embedding Dart Everywhere
 ** dart and html
 ** calling dart from javascript

@@ -1,162 +1,148 @@
-* Part I: Let there be Dart
-** Chapter One: Once Upon a Time, Dart
+#+startup: overview
+#+title: Table of Contents
+
+* PART I: Let there be Dart
+** CHAPTER ONE: Targeting Everything
+** Chapter TWO: Once Upon a Time, Dart
 # why someone ends up with dart
 # other competitors and comparison with dart
 # a little bit of history
-** Chapter two: Hello Dart!
+# Dart wants to target everything
+** Chapter THREE: Hello Dart!
 *** Dart Design Principles
 *** Setting things up
 *** Hello Dart!
+* PART II: Learning to play Dart
+** Chapter Three: Basic Concepts
+*** Comments for clarification
+**** dart doc
+*** variables
+*** Statements & Expressions
+**** control flow
+***** conditionals
+****** if else
+***** loops
+****** for loop
+****** while loop
+****** do while loop
+****** for in loop
+***** switch statement
+***** break and continue
 
-* Part II: Fundamentals
-** Chapter three:
-** Chapter Four:
+** Chapter three: Objects & Nothing More
+*** objects and nothing more
+**** everything is an object
+**** classes
+***** creating objects
+***** default constructor
+***** inheritance
+***** extends keyword
+***** super keyword
+***** polymorphism
+****** static polymorphism
+****** dynamic polymorphism
+***** encapsulation
+***** abstract classes and methods
+***** interfaces
+***** callable classes
+***** accessors
+***** getters and setters
+***** noSuchMethod
+***** constant objects and fields
+***** metaclass
+***** finals
+***** identity and equality
+**** private member class
+**** mixins
+**** all kinds of object constructors
+***** generative constructor
+***** constructor with optional parameters
+***** named constructors
+***** syntactic sugar
+***** redirecting constructors
+***** private constructors
+***** factory constructors
+***** constant constructors
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--------
-
-* Fundamentals
-** Comments for clarification
-*** dart doc
-** objects and nothing more
-*** everything is an object
-*** classes
-**** creating objects
-**** default constructor
-**** inheritance
-**** extends keyword
-**** super keyword
-**** polymorphism
-***** static polymorphism
-***** dynamic polymorphism
-**** encapsulation
-**** abstract classes and methods
-**** interfaces
-**** callable classes
-**** accessors
-**** getters and setters
-**** noSuchMethod
-**** constant objects and fields
-**** metaclass
-**** finals
-**** identity and equality
-*** private member class
-*** mixins
-*** all kinds of object constructors
-**** generative constructor
-**** constructor with optional parameters
-**** named constructors
-**** syntactic sugar
-**** redirecting constructors
-**** private constructors
-**** factory constructors
-**** constant constructors
-** Statements & Expressions
-*** control flow
-**** conditionals
-***** if else
-**** loops
-***** for loop
-***** while loop
-***** do while loop
-***** for in loop
-**** switch statement
-**** break and continue
-** Functions
-*** functions as objects
-*** closures
-*** function types
-*** named and optional parameters
-*** anonymous functions and arrow syntax
-** Type System
-*** type checking
-*** type conversion
-*** null safety
-*** type test - is keyword
-*** casting
-*** static type
-** data types
-*** type inference
-*** var keyword
-*** collections
-**** collection if
-**** collection for
-*** iterators
-** operators
-*** operators precedence
-*** spread operator
-** variables
-** generic
-*** generic functions
-*** generic collection
-* Dart API
-** dart:core
-** dart:math
-** dart:io
-*** file handling
-** dart:async
-** dart:convert
-** dart:html
-** dart:svg
-** dart:web_audio
-** dart:ui
-** dart:mirrors
-*** reflection
-** lists
-** maps
-** sets
-** Implementing data structures
-* Advanced Concepts
-** Metadata
-** Concurrency
-*** future
-*** zones
-*** async and await keywords
-*** streams
-** Exception Handling
-*** finally
-*** try catch
-*** rethrow
-*** stack traces
-*** custom exception
-*** asynchronous error handling
-** packages
-*** creating and publishing a package
-*** pub tool
-** internationalization
-** extensions
-** client server programming
+** Chapter Four: Controlling The Flow
+** Fundamentals
+*** Functions
+**** functions as objects
+**** closures
+**** function types
+**** named and optional parameters
+**** anonymous functions and arrow syntax
+*** Type System
+**** type checking
+**** type conversion
+**** null safety
+**** type test - is keyword
+**** casting
+**** static type
+*** data types
+**** type inference
+**** var keyword
+**** collections
+***** collection if
+***** collection for
+**** iterators
+*** operators
+**** operators precedence
+**** spread operator
+*** generic
+**** generic functions
+**** generic collection
+** Dart API
+*** dart:core
+*** dart:math
+*** dart:io
+**** file handling
+*** dart:async
+*** dart:convert
+*** dart:html
+*** dart:svg
+*** dart:web_audio
+*** dart:ui
+*** dart:mirrors
+**** reflection
+*** lists
+*** maps
+*** sets
+*** Implementing data structures
+** Advanced Concepts
+*** Metadata
+*** Concurrency
+**** future
+**** zones
+**** async and await keywords
+**** streams
+*** Exception Handling
+**** finally
+**** try catch
+**** rethrow
+**** stack traces
+**** custom exception
+**** asynchronous error handling
+*** packages
+**** creating and publishing a package
+**** pub tool
+*** internationalization
+*** extensions
+*** client server programming
 <<<<<<< HEAD
 <<<<<<< HEAD
-** security
+*** security
 
 happily ever after
 =======
 =======
 >>>>>>> master
-** Meta Programming
-*** code generation
-* Data Structures
-* Dart & Web
+*** Meta Programming
+**** code generation
+* PART III: Structuring Data Using Dart
+** Chapter Ten: Tree
+** Chapter Eleven: Heap
+* PART IV: Embedding Dart Everywhere
 ** dart and html
 ** calling dart from javascript
 ** dart and JavaScript inter operation
-* Dart & Embedded Devices
-* Happily Ever After

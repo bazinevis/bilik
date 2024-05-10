@@ -3,15 +3,27 @@
 
 * PART I: Let there be Dart
 ** CHAPTER ONE: Targeting Everything
+# why we need cross platform development 
+# how cross platform frameworks work in detail
+# introducing cross platform frameworks exist in market
+# comparing cross platform frameworks in detail 
+# languages used by these frameworks 
+
 ** Chapter TWO: Once Upon a Time, Dart
 # why someone ends up with dart
-# other competitors and comparison with dart
 # a little bit of history
 # Dart wants to target everything
-** Chapter THREE: Hello Dart!
-*** Dart Design Principles
+# dart first want to target web but now everything 
+# dart design principles 
+# how dart executes a program 
+# syntactic sugar 
+# overview of the whole Dart language 
+
+** Chapter THREE: First things first 
 *** Setting things up
 *** Hello Dart!
+
+
 * PART II: Learning to play Dart
 ** Chapter Three: Basic Concepts
 *** Comments for clarification
@@ -28,7 +40,6 @@
 ****** for in loop
 ***** switch statement
 ***** break and continue
-
 ** Chapter three: Objects & Nothing More
 *** objects and nothing more
 **** everything is an object
@@ -129,16 +140,11 @@
 *** internationalization
 *** extensions
 *** client server programming
-<<<<<<< HEAD
-<<<<<<< HEAD
 *** security
-
-happily ever after
-=======
-=======
->>>>>>> master
 *** Meta Programming
 **** code generation
+
+
 * PART III: Structuring Data Using Dart
 ** Chapter Ten: Tree
 ** Chapter Eleven: Heap

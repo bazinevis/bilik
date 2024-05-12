@@ -6,13 +6,10 @@
 # someone who has a base understanding of programming concepts
 
 * PART I: LET THERE BE DART
-** CHAPTER ONE: TARGETING EVERYTHING
-# why we need cross platform development
-# how cross platform frameworks work in detail
-# introducing cross platform frameworks exist in market
-# comparing cross platform frameworks in detail
-# languages used by these frameworks
-# trade offs should be considered in cross platform development
+** CHAPTER ONE: WORLD BEFORE DART WAS BORN
+# what problems were in the technology before dart
+# no naming dart in this chapter
+# dart comes to answer javascript's shortcomings
 
 ** CHAPTER TWO: ONCE UPON A TIME, DART
 # why someone ends up with dart
@@ -39,37 +36,21 @@
 
 
 * PART II: LEARNING TO PLAY DART
-** CHAPTER FOUR: DART DESIGN PRINCIPLES
+** CHAPTER FOUR: HOW DART DESIGNED
 # why dart desiged this way
 # what trade offs considered in dart
 # syntactic sugars
 # everything is object
 # type safety
 # type insurance?
+# object oriented design of dart
+# everthing is object in dart even functions
+# functional programming in dart
+# dart's grammar is C like
+# comments
+# a little bit survey about grammar and syntax sugar
 
-** CHAPTER FIVE: TALKING IN DART
-# Comments & documenting code
-# defining variables
-# constants & finals?
-# var
-# operators
-# operators precedence
-# spread operator
-# Statements & Expressions
-# controlling the flow
-# conditionals
-# if else
-# loops
-# for loop
-# while loop
-# do while loop
-# for in loop
-# switch statement
-# break and continue
-# functions
-# classes
-
-** Chapter SIX: Objects & Nothing More
+** Chapter FIVE: REPRESENTING & OPERATING ON DATA
 # everything is an object
 # classes
 # creating objects
@@ -91,6 +72,14 @@
 # metaclass
 # finals
 # identity and equality
+# defining variables
+# constants & finals?
+# var
+# operators
+# operators precedence
+# spread operator
+# collection, lists, etc
+
 *** private member class
 *** Metadata
 *** all kinds of object constructors
@@ -123,18 +112,56 @@
 ***** collection if
 ***** collection for
 **** iterators
-** CHAPTER NINE: ADVANCED CONCEPTS
+
+** CHAPTER SIX: CONTROLLING THE FLOW
+# Statements & Expressions
+# controlling the flow
+# conditionals
+# if else
+# loops
+# for loop
+# while loop
+# do while loop
+# for in loop
+# switch statement
+# break and continue
+# functions
+# classes
+
+** CHAPTER NINE: PACKAGING
 *** generic
 **** generic functions
 **** generic collection
-*** Meta Programming
-**** code generation
-*** security
-*** client server programming
-*** extensions
+**** CHAPTER TEN: Dart API
+***** dart:core
+***** dart:math
+***** dart:io
+****** file handling
+***** dart:async
+***** dart:convert
+***** dart:html
+***** dart:svg
+***** dart:web_audio
+***** dart:ui
+***** dart:mirrors
+****** reflection
+***** lists
+***** maps
+***** sets
+
 *** packages
 **** creating and publishing a package
 **** pub tool
+
+** CHAPTER NINE: CONCURRENCY
+*** Concurrency
+**** future
+**** zones
+**** async and await keywords
+**** streams
+*** Meta Programming
+**** code generation
+*** extensions
 *** internationalization
 *** Exception Handling
 **** finally
@@ -143,34 +170,11 @@
 **** stack traces
 **** custom exception
 **** asynchronous error handling
-*** Concurrency
-**** future
-**** zones
-**** async and await keywords
-**** streams
-** CHAPTER TEN: Dart API
-*** dart:core
-*** dart:math
-*** dart:io
-**** file handling
-*** dart:async
-*** dart:convert
-*** dart:html
-*** dart:svg
-*** dart:web_audio
-*** dart:ui
-*** dart:mirrors
-**** reflection
-*** lists
-*** maps
-*** sets
-
-
 * PART III: Structuring Data Using Dart
 ** Chapter Ten: Tree
 ** Chapter Eleven: Heap
 
-
+* PART IV: DESIGN PATTERNS IN DART
 * PART IV: Embedding Dart Everywhere
 # dart and html
 # calling dart from javascript

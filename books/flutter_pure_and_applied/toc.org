@@ -1,0 +1,14 @@
+#+startup: overview
+#+title: Table of Contents
+
++ Preface
+# whose this book is for?
+
+* PART I:
+** CHAPTER ONE: TARGETING EVERYTHING
+# why we need cross platform development
+# how cross platform frameworks work in detail
+# introducing cross platform frameworks exist in market
+# comparing cross platform frameworks in detail
+# languages used by these frameworks
+# trade offs should be considered in cross platform development

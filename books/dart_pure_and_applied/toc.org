@@ -34,9 +34,8 @@
 # Setting things up
 # Hello Dart!
 
-
-* PART II: LEARNING TO PLAY DART
-** CHAPTER FOUR: HOW DART DESIGNED
+* PART II: PLAYING WITH DART
+** CHAPTER FOUR: BEFORE SHOOTING ANY DARTS
 # why dart desiged this way
 # what trade offs considered in dart
 # syntactic sugars
@@ -49,6 +48,13 @@
 # dart's grammar is C like
 # comments
 # a little bit survey about grammar and syntax sugar
+*** DART DESIGN
+*** LITERALLY EVERYTHING'S OBJECT
+**** FUNCTIONS
+**** COLLECTIONS
+**** PACKAGING
+*** CONTROLLING THE FLOW
+*** CONCURRENCY
 
 ** Chapter FIVE: REPRESENTING & OPERATING ON DATA
 # everything is an object
@@ -170,6 +176,7 @@
 **** stack traces
 **** custom exception
 **** asynchronous error handling
+
 * PART III: Structuring Data Using Dart
 ** Chapter Ten: Tree
 ** Chapter Eleven: Heap

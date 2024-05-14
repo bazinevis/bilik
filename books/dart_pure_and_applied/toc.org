@@ -5,13 +5,13 @@
 # whose this book is for?
 # someone who has a base understanding of programming concepts
 
-* PART I: LET THERE BE DART
+* PART I: ONCE UPON A TIME, DART
 ** CHAPTER ONE: WORLD BEFORE DART WAS BORN
 # what problems were in the technology before dart
 # no naming dart in this chapter
-# dart comes to answer javascript's shortcomings
+# dart comes to answer JavaScript's shortcomings
 
-** CHAPTER TWO: ONCE UPON A TIME, DART
+** CHAPTER TWO: LET THERE BE DART
 # why someone ends up with dart
 # a little bit of history
 # Dart wants to target everything
@@ -26,35 +26,51 @@
 # what sb should want to end up with dart? dart answer to what questions
 # how dart render gui and use native API
 
-** CHAPTER THREE: FIRST THINGS FIRST
-# setting up multiple IDEs
-# simplest possible program in dart
-# how to debug
-# how to trace
-# Setting things up
-# Hello Dart!
-
 * PART II: PLAYING WITH DART
-** CHAPTER FOUR: BEFORE SHOOTING ANY DARTS
+** CHAPTER TREE: BEFORE SHOOTING ANY DARTS
+# in this chapter overview of dart programming language will be told.
+# how dart desiged and why it is desiged this way. these explanations will
+# be told to a person who has a enough understanding of object oriented
+# programming and programming concepts overall. there shouldn't be any
+# syntax here. just naming concepts names and if possible their cards from
+# other books or notes. just saying concepts. for example we will tell about
+# grammar is C like and everything is object even functions and null even
+# premitive data types. we will tell about referenceing and variables and
+# how dart store data and strings and numbers and how it operates on them.
+# how dart type safety works and how type conversion works in dart.
+# after explaining fundamentals
+# we go to flow control and will tell flow control statements.
+# in this chapter we tell fundamentals and in the next chapters we try
+# to expand these concepts further more.
 # why dart desiged this way
 # what trade offs considered in dart
 # syntactic sugars
-# everything is object
 # type safety
 # type insurance?
 # object oriented design of dart
-# everthing is object in dart even functions
 # functional programming in dart
 # dart's grammar is C like
 # comments
 # a little bit survey about grammar and syntax sugar
 *** DART DESIGN
 *** LITERALLY EVERYTHING'S OBJECT
-**** FUNCTIONS
-**** COLLECTIONS
-**** PACKAGING
-*** CONTROLLING THE FLOW
-*** CONCURRENCY
+# everything is object in dart even functions
+
+
+** CHAPTER FOUR: CONTROLLING THE FLOW
+# Statements & Expressions
+# controlling the flow
+# conditionals
+# if else
+# loops
+# for loop
+# while loop
+# do while loop
+# for in loop
+# switch statement
+# break and continue
+# functions
+# classes
 
 ** Chapter FIVE: REPRESENTING & OPERATING ON DATA
 # everything is an object
@@ -119,22 +135,7 @@
 ***** collection for
 **** iterators
 
-** CHAPTER SIX: CONTROLLING THE FLOW
-# Statements & Expressions
-# controlling the flow
-# conditionals
-# if else
-# loops
-# for loop
-# while loop
-# do while loop
-# for in loop
-# switch statement
-# break and continue
-# functions
-# classes
-
-** CHAPTER NINE: PACKAGING
+** CHAPTER SIX: PACKAGING
 *** generic
 **** generic functions
 **** generic collection
@@ -159,7 +160,7 @@
 **** creating and publishing a package
 **** pub tool
 
-** CHAPTER NINE: CONCURRENCY
+** CHAPTER SEVEN: CONCURRENCY
 *** Concurrency
 **** future
 **** zones
@@ -177,12 +178,20 @@
 **** custom exception
 **** asynchronous error handling
 
-* PART III: Structuring Data Using Dart
+** CHAPTER EIGHT: EMBEDDING DART EVERYWHERE
+# dart and HTML
+# calling dart from JavaScript
+# dart and JavaScript inter operation
+
+* PART III: STRUCTURING DATA USING DART
 ** Chapter Ten: Tree
 ** Chapter Eleven: Heap
 
 * PART IV: DESIGN PATTERNS IN DART
-* PART IV: Embedding Dart Everywhere
-# dart and html
-# calling dart from javascript
-# dart and JavaScript inter operation
+* APPENDICES
+** APPENDIX I: SETTING ENVIRONMENTS UP
+# setting up multiple IDEs
+
+** APPENDIX II: DEBUGGING & TRACING
+# how to debug
+# how to trace

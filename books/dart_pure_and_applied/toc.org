@@ -25,37 +25,13 @@
 # dart is known by flutter framework
 # what sb should want to end up with dart? dart answer to what questions
 # how dart render gui and use native API
+# how dart executes programs
 
 * PART II: PLAYING WITH DART
 ** CHAPTER TREE: BEFORE SHOOTING ANY DARTS
-# in this chapter overview of dart programming language will be told.
-# how dart desiged and why it is desiged this way. these explanations will
-# be told to a person who has a enough understanding of object oriented
-# programming and programming concepts overall. there shouldn't be any
-# syntax here. just naming concepts names and if possible their cards from
-# other books or notes. just saying concepts. for example we will tell about
-# grammar is C like and everything is object even functions and null even
-# premitive data types. we will tell about referenceing and variables and
-# how dart store data and strings and numbers and how it operates on them.
-# how dart type safety works and how type conversion works in dart.
-# after explaining fundamentals
-# we go to flow control and will tell flow control statements.
-# in this chapter we tell fundamentals and in the next chapters we try
-# to expand these concepts further more.
-# why dart desiged this way
-# what trade offs considered in dart
-# syntactic sugars
-# type safety
-# type insurance?
-# object oriented design of dart
-# functional programming in dart
-# dart's grammar is C like
-# comments
-# a little bit survey about grammar and syntax sugar
 *** DART DESIGN
 *** LITERALLY EVERYTHING'S OBJECT
 # everything is object in dart even functions
-
 
 ** CHAPTER FOUR: CONTROLLING THE FLOW
 # Statements & Expressions

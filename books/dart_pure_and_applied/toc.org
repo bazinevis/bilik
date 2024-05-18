@@ -28,8 +28,9 @@
 # how dart executes programs
 
 * PART II: PLAYING WITH DART
-** CHAPTER TREE: BEFORE SHOOTING ANY DARTS
-*** DART DESIGN
+** CHAPTER TREE: DART ANATOMY
+
+*** HOW TO TALK DART LANGUAGE
 *** LITERALLY EVERYTHING'S OBJECT
 # everything is object in dart even functions
 

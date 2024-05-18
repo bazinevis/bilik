@@ -41,7 +41,50 @@
 - everything program related not execute related
 #+end_comment
 
+---------------
 
-* GRAMMAR OVERVIEW
-* LITERALLY EVERYTHING IS AN OBJECT
+# preface
+
+* LANGUAGE OVERVIEW
+every programming language is made of a grammar and tools to translate a
+program written in that grammar to a executable file. it is important for
+a programming language to has some tools to facilitate the process of
+programming for programmers.
+
+if you look at a programming language grammar you find nothing but data
+and some operations on data. data is represented by variables and operations
+are represented by expressions and
+
+in dart everything is an object. dart is pure object oriented.
+
+dart is capable of functional programming.
+
+
+
+# grammar > grammar overview
+# data > variables
+# operations > expressions, functions, flow of the operations
+# comment
+# Dart is Case-sensitive
+# Statements end with a Semicolon
+# Whitespace and Line Breaks Dart ignores spaces, tabs, and newlines that appear in programs. You can use spaces, tabs, and newlines freely in your program and you are free to format and indent your programs in a neat and consistent way that makes the code easy to read and understand.
+# https://www.tutorialspoint.com/dart_programming/dart_programming_syntax.htm
+
+
+* DART GRAMMAR OVERVIEW
+# identifier naming rules, scopes
+
+
+* DATA
+variables
+
+* OPERATIONS
+functions control flow
+
+
+
+
+
+
+* EVERYTHING IS AN OBJECT
 * TYPE SYSTEM

@@ -1,7 +1,34 @@
-* Prerequisites to the book
+BASICS
+-- How programs run
+-- How programs run in virtual machines
+-- How dart runs
+-- main function
+-- naming conventions
+-- C like grammar
+-- comments
 
+DATA (in main)
+-- TYPE
+-- induce type from value
+-- variables
+-- built in types
+-- operators
+-- expressions
 
-* Target Audience
+CONTROL FLOW (in main)
+-- what is a statement
+-- if
+-- if/else
+-- switch
+-- try catch
 
+Functions
+-- optional parameters
+-- default value
 
-* Structure of the book
+USER DEFINED TYPES
+-- object oriented concepts
+
+PACKAGING
+
+CONCURRENCY

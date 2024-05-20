@@ -5,29 +5,7 @@
 # whose this book is for?
 # someone who has a base understanding of programming concepts
 
-* PART I: ONCE UPON A TIME, DART
-** CHAPTER ONE: WORLD BEFORE DART WAS BORN
-# what problems were in the technology before dart
-# no naming dart in this chapter
-# dart comes to answer JavaScript's shortcomings
-
-** CHAPTER TWO: LET THERE BE DART
-# why someone ends up with dart
-# a little bit of history
-# Dart wants to target everything
-# dart first want to target web but now everything
-# dart design principles
-# how dart executes a program
-# overview of the whole Dart language
-# aot compiler vs jit compiler
-# dart cons and pros
-# dart future
-# dart is known by flutter framework
-# what sb should want to end up with dart? dart answer to what questions
-# how dart render gui and use native API
-# how dart executes programs
-
-* PART II: PLAYING WITH DART
+* PART I: PLAYING WITH DART
 ** CHAPTER TREE: DART ANATOMY
 
 *** HOW TO TALK DART LANGUAGE
@@ -46,8 +24,6 @@
 # for in loop
 # switch statement
 # break and continue
-# functions
-# classes
 
 ** Chapter FIVE: REPRESENTING & OPERATING ON DATA
 # everything is an object
@@ -160,11 +136,33 @@
 # calling dart from JavaScript
 # dart and JavaScript inter operation
 
-* PART III: STRUCTURING DATA USING DART
+* PART II: STRUCTURING DATA USING DART
 ** Chapter Ten: Tree
 ** Chapter Eleven: Heap
 
-* PART IV: DESIGN PATTERNS IN DART
+* PART III: DESIGN PATTERNS IN DART
+* PART IV: ONCE UPON A TIME, DART
+** CHAPTER ONE: WORLD BEFORE DART WAS BORN
+# what problems were in the technology before dart
+# no naming dart in this chapter
+# dart comes to answer JavaScript's shortcomings
+
+** CHAPTER TWO: LET THERE BE DART
+# why someone ends up with dart
+# a little bit of history
+# Dart wants to target everything
+# dart first want to target web but now everything
+# dart design principles
+# how dart executes a program
+# overview of the whole Dart language
+# aot compiler vs jit compiler
+# dart cons and pros
+# dart future
+# dart is known by flutter framework
+# what sb should want to end up with dart? dart answer to what questions
+# how dart render gui and use native API
+# how dart executes programs
+
 * APPENDICES
 ** APPENDIX I: SETTING ENVIRONMENTS UP
 # setting up multiple IDEs

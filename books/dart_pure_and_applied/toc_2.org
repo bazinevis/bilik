@@ -1,0 +1,155 @@
+#+startup: overview
+#+title: TABLE OF CONTENTS
+
+* PART I: DART EXPLAINED
+** CHAPTER ONE: BASICS
+-- How programs run
+-- How programs run in virtual machines
+-- How dart runs
+-- main function
+-- naming conventions
+-- C like grammar
+-- comments
+** CHAPTER ONE: INTRODUCING OBJECT ORIENTED DART
+-- introducing object oriented
+-- implementing object oriented in dart
+-- variables
+-- induce type from value
+-- TYPE
+-- built in simple types
+-- -- int
+-- -- bool
+-- -- double is subclass of num
+-- operators
+** CHAPTER TWO: DATA
+-- expressions
+** CHAPTER THREE: CONTROLLING THE FLOW
+-- what is a statement
+-- if
+-- if else
+-- while
+-- do while
+-- for
+-- for in
+-- switch case
+** CHAPTER FOUR: FUNCTIONS
+-- optional parameters
+-- default value
+** CHAPTER FIVE: USER DEFINED TYPES
+-- object oriented concepts
+-- everything is an object
+-- classes
+-- creating objects
+# default constructor
+# inheritance
+# extends keyword
+# super keyword
+# polymorphism
+# static polymorphism
+# dynamic polymorphism
+# encapsulation
+# abstract classes and methods
+# interfaces
+# callable classes
+# accessors
+# getters and setters
+# noSuchMethod
+# constant objects and fields
+# metaclass
+# finals
+# identity and equality
+# defining variables
+# constants & finals?
+# var
+# operators
+# operators precedence
+# spread operator
+# collection, lists, etc
+
+*** private member class
+*** Metadata
+*** all kinds of object constructors
+**** generative constructor
+**** constructor with optional parameters
+**** named constructors
+**** syntactic sugar
+**** redirecting constructors
+**** private constructors
+**** factory constructors
+**** constant constructors
+*** mixins
+*** Type System
+**** type checking
+**** type conversion
+**** null safety
+**** type test - is keyword
+**** casting
+**** static type
+*** Functions
+**** functions as objects
+**** closures
+**** function types
+**** named and optional parameters
+**** anonymous functions and arrow syntax
+*** data types
+**** type inference
+**** var keyword
+**** collections
+***** collection if
+***** collection for
+**** iterators
+
+** CHAPTER SIX: BUILT IN TYPES
+-- string
+-- list
+-- -- generic list?
+-- map
+-- -- generic map?
+-- set
+-- -- generic set?
+-- record
+-- collection if
+-- collection for
+** CHAPTER SEVEN: ERROR HANDLING
+-- try catch
+-- catching user defined exception
+-- assert
+-- finally
+** CHAPTER SEVEN: CONCURRENCY
+** CHAPTER EIGHT: EMBEDDING DART
+
+
+* PART II: STRUCTURING DATA USING DART
+** Chapter Ten: Tree
+** Chapter Eleven: Heap
+
+* PART III: DESIGN PATTERNS IN DART
+* PART IV: ONCE UPON A TIME, DART
+** CHAPTER ONE: WORLD BEFORE DART WAS BORN
+# what problems were in the technology before dart
+# no naming dart in this chapter
+# dart comes to answer JavaScript's shortcomings
+
+** CHAPTER TWO: LET THERE BE DART
+# why someone ends up with dart
+# a little bit of history
+# Dart wants to target everything
+# dart first want to target web but now everything
+# dart design principles
+# how dart executes a program
+# overview of the whole Dart language
+# aot compiler vs jit compiler
+# dart cons and pros
+# dart future
+# dart is known by flutter framework
+# what sb should want to end up with dart? dart answer to what questions
+# how dart render gui and use native API
+# how dart executes programs
+
+* APPENDICES
+** APPENDIX I: SETTING ENVIRONMENTS UP
+# setting up multiple IDEs
+
+** APPENDIX II: DEBUGGING & TRACING
+# how to debug
+# how to trace

@@ -1,0 +1,4 @@
+#+TITLE: TEMPLATE
+#+TAGS: :ONE:TWO:THREE:ETC:
+
+# prerequisites are tags?

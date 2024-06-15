@@ -1,0 +1,41 @@
+اول یه شخصیت دختر باهوش که میخواد ته همه چی رو دربیاره. به صورت مفهومی یاد
+بگیره. دوست داره بدونه چرا این چیزی که داره یاد میگیره این طوریه
+
+دوم یه شخصیت پسر که کاربرد بیشتر از مفهوم براش مهمه. دوست داره بدونه این چیزی که
+داره یاد میگیره کجا به دردش میخوره؟ آیا اصلا به دردش می‌خوره یا نه؟
+
+این دو شخصیت پسر و دختر سوال می‌پرسند و یه استاد هم بهشون جواب میده. یعنی در واقع
+استاد شروع میکنه به یاد دادن یه مبحث و درسش رو میده و این وسط این دو تا سوالاشون
+رو که به دو دسته مفهومی و کاربردی تقسیم می‌شه می‌پرسند و استاد جوابشون رو میده.
+
+مثلا برای دارت این طوری شروع کنم
+
+The Dart Story
+A Journey to program everything everywhere
+
+Alice & Matthew want to program everything. After some thinking they found out
+they can use dart.
+
+The introduction to this book can contain: A journey of these two to find a way
+to program with one programming language and one code base in multiple targets.
+
+The boy wants to know how can he do that and ends up with dart & flutter. The
+girl wants to know why dart & flutter works this way.
+
+After researching and asking questions from teacher they end up with dart &
+flutter. In continue they begin to learn dart and flutter. For learning dart
+they must know about programming concepts. For example they will want to learn
+how they can change the control flow of a program. The boy wants to know the
+code to move on. But the girl wants to know how internals are implemented.
+
+For example in null safety subject. the boy just wants to know that null-able
+objects and how a variable can be null. On the other hand the girl wants to know
+the class hierarchy of objects in Dart and how null object resides in this
+hierarchy. The girl tries to know the internals. Sometimes the will have a fight
+about some subjects. Because the boy thinks knowing too much about internals can
+cause problems and it is time consuming but the girl thinks knowing this much
+can help write better code and it is worth knowing.
+
+The boy doesn't accept the importance of commenting but the girl does. The boy
+is not a bad person. He wants things that practical. The girl wants the concepts
+of things.

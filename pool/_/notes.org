@@ -1,0 +1,16 @@
++ I want the book and site has a consistent art style. Art in displaying images
+  and graphs and logo.
++ The goal is after reading this book, reader can without any help (except this
+  book) and without looking on any code, begin to write code. This book is
+  comprehensive and in detail.
++ Every text node has some prerequisites and every text node can be a
+  prerequisite to another text node.
++ Every text node has number of read and passed tag.
++ (application/web) & book
++ In the application & web I should show what are the prerequisites of current
+  text node and how many times they were read and are they passed or not.
++ Every book or website article is made of text nodes with some text added to
+  the beginning and end of it. Text nodes are important. Text nodes sould be
+  generic to be fit in the books and articles.
++ Every time I read about one aspect of dart language, I can update concepts and
+  dart documents and little by little the whole document will be created.

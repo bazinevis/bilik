@@ -1,3 +1,5 @@
+# don't put the concepts in one place. spread them in the book
+
 BASICS
 -- How programs run
 -- How programs run in virtual machines
@@ -6,6 +8,18 @@ BASICS
 -- naming conventions
 -- C like grammar
 -- comments
+
+Object Oriented Concepts (GENERAL CONCEPTS)
+-- UML
+-- methods
+-- Inheritance
+-- Association
+-- etc
+-- mixin
+-- diamond
+-- *DON'T include code in dart*
+-- TYPE
+-- TYPE SAFETY
 
 DATA (in main)
 -- TYPE

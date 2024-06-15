@@ -1,0 +1,74 @@
+#+startup: overview
+#+title: TABLE OF CONTENTS
+
+* PART I: ONCE UPON A TIME, DART
+** CHAPTER ONE: WORLD BEFORE DART WAS BORN
+# what problems were in the technology before dart
+# no naming dart in this chapter
+# dart comes to answer JavaScript's shortcomings
+
+** CHAPTER TWO: LET THERE BE DART
+# dart is a solution not the solution
+# how computers execute programs
+# why someone ends up with dart
+# a little bit of history
+# Dart wants to target everything
+# dart first want to target web but now everything
+# dart design principles
+# how dart executes a program
+# overview of the whole Dart language
+# aot compiler vs jit compiler
+# dart cons and pros
+# dart future
+# dart is known by flutter framework
+# what sb should want to end up with dart? dart answer to what questions
+# how dart render gui and use native API
+# how dart executes programs
+
+* PART II: DART
+** CHAPTER THREE: INTRODUCING DART
+talking about main features of dart. naming conventions. comments. C like
+grammar.
+** CHAPTER FOUR: DATA - in main
+-- TYPE
+-- induce type from value
+-- variables
+-- built in types
+-- operators
+-- expressions
+** CHAPTER FIVE: CONTROLLING FLOW - in main
+-- what is a statement
+-- if
+-- if else
+-- while
+-- do while
+-- for
+-- for in
+-- switch case
+-- collection if
+-- collection for
+** CHAPTER FOUR: FUNCTIONS - in main
+** CHAPTER THREE: OBJECTS IN DART
+-- every thing about dart object orientation
+** CHAPTER: ERROR HANDLING
+-- try catch
+-- catching user defined exception
+-- assert
+-- finally
+-- debugging?
+-- tracing line by line?
+** CHAPTER: CONCURRENCY
+** CHAPTER: PACKAGING
+** CHAPTER: EMBEDDING DART EVERYWHERE
+* PART III: STRUCTURING DATA USING DART
+** Chapter Ten: Tree
+** Chapter Eleven: Heap
+
+* PART IV: DESIGN PATTERNS IN DART
+* APPENDICES
+** APPENDIX I: SETTING ENVIRONMENTS UP
+# setting up multiple IDEs
+
+** APPENDIX II: DEBUGGING & TRACING
+# how to debug
+# how to trace

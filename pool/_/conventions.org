@@ -1,0 +1,7 @@
+#+title: bazinevis.com/conventions
+
+* naming conventions
++ folder names   :: snake case with underscore at the end
++ file names     :: snake case without underscore at the end
++ special files  :: snake case with underscore at the beginning
++ excluded files :: snake case with double underscore at the beginning

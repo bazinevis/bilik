@@ -1,0 +1,19 @@
+#+startup: overview
+#+title:PROGRAMMING COMPUTERS
+
+it about programming languages not how computers work
+
+
+# ----------
+# components of a computer
+# ram, cpu, network, etc
+# things related to computer architecture
+# compilers
+# scripting languages
+# programming languages
+# ----------
+
+* i
+* ii
+* iii
+* iv

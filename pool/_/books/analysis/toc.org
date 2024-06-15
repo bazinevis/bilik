@@ -1,0 +1,18 @@
+** CHAPTER ONE: OBJECT ORIENTED
+history?
+procedural programming
+talking about UML diagrams and object oriented programming in general
+without code.
+- inheritance
+- Association
+- mixin
+- methods
+- classes
+- diamond
+- types
+- type safety
+- operators
+- overloading
+- polymorphism
+- how functions can be a object
+- etc

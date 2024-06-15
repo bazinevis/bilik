@@ -1,0 +1,3 @@
+Dart also includes a tool called [[file:./_dart_doc.org]['dart doc']] that generates documents from
+extracted comments in the source code. This tool expects programmers to adhere
+to specific comment styles and rules when annotating parts of the source code.

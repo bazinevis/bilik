@@ -1,0 +1,73 @@
+#+startup: overview
+#+title: TABLE OF CONTENTS
+
+* CHAPTER ONE: PROGRAMMING COMPUTERS
+# how computers work
+# what is a programming language
+# how to program a computer
+# how virtual machines work
+# how web works
+# web technologies
+# how dart like programming languages run on virtual machine
+# programming languages and concepts behind them lambda calculus
+# scriptting languages
+# aot & jit compiling
+# flow chart
+# flow of programs
+# programming paradigms
+GOLNORE
+SOHROBE
+
+* CHAPTER TWO: PROGRAMMING PARADIGMS
+# introducing object oriented programming concepts in general without code
+
+* CHAPTER ONE: ONCE UPON A TIME, DART
+# what problems were in the technology before dart
+# no naming dart in this chapter
+# dart comes to answer JavaScript's shortcomings
+# dart is a solution not the solution
+# how computers execute programs
+# why someone ends up with dart
+# a little bit of history
+# Dart wants to target everything
+# dart first want to target web but now everything
+# dart design principles
+# how dart executes a program
+# overview of the whole Dart language
+# aot compiler vs jit compiler
+# dart cons and pros
+# dart future
+# dart is known by flutter framework
+# what sb should want to end up with dart? dart answer to what questions
+# how dart render gui and use native API
+# how dart executes programs
+
+* CHAPTER TWO: INTRODUCING DART
+talking about main features of dart. naming conventions. comments. C like
+grammar.
+# dart is a pure object oriented language
+# - what is an object?
+# - what is object oriented programming
+# - little bit of history about object oriented programming paradigm
+# - inheritance
+# - user defined types
+
+* CHAPTER THREE: DATA IN DART
+-- TYPE
+-- induce type from value
+-- variables
+-- built in types
+-- operators
+-- expressions
+
+* CHAPTER FOUR: CONTROLLING THE FLOW
+-- what is a statement
+-- if
+-- if else
+-- while
+-- do while
+-- for
+-- for in
+-- switch case
+-- collection if
+-- collection for

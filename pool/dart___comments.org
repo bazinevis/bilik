@@ -1,0 +1,27 @@
+:PROPERTIES:
+:DEPENDS: comments__programming-concepts
+:REFINEMENT: 0001
+:END:
+#+title: Dart Comments
+
+Syntactically, Dart incorporates two types of comments:
++ single line comments:
+  Comments beginning with '//' and extending to the new line character are
+  considered single-line comments in Dart.
+  #+begin_src dart
+    void main() {
+      // This will print the given statement on screen
+      print("Welcome to JavaTpoint");
+    }
+  #+end_src
+
++ Multi-line Comments:
+  Comments beginning with ',/*' and extending across multiple lines until the
+  corresponding '*/' are considered multi-line comments in Dart.
+  #+begin_src dart
+    /* This is the example of multi-line comment
+    This will print the given statement on screen */
+    void main() {
+      print("Welcome to JavaTpoint");
+    }
+  #+end_src

@@ -1,0 +1,129 @@
+#+startup: overview
+#+title: TABLE OF CONTENTS
+
+
+What is programming and what makes a programming language
+-- programming is about processing data
+-- data is stored in memory and processing happens in processing units
+-- it's a language to talk to computers, we ask them to do something
+-- every language has a syntax and grammar and is made of words, alphabets,
+-- in making a word there are some rules as in making identifiers
+-- binding something to other thing
+-- we use paradigms to manage the code we write and understand it well.
+-- at the end something that runs on CPUs are ones and zeroes
+-- computer organization
+-- how CPU fetches data from memory and put them on registers and consumes them
+-- CPU understands ones and zeroes
+-- how can we tell CPU what to do. 1 and 0 is hard. what about assembly language
+-- assembly language helps but it is not manageable
+-- some other programming paradigms emerged
+
+programming paradigms
+-- functional
+--- there is no side effect
+--- there is no variables
+--- some languages have variables and side effect like lisp
+-- procedural
+-- object oriented
+-- structured
+
+
+how computers run programs
+-- virtual machines
+-- hardware
+
+How to make a multi platform API
+-- use something like flutter do. a cross platform canvas to draw on.
+-- using virtual machines
+-- use native APIs
+-- use web based canvas
+
+
+
+card base
+
+talking about programming concepts and show those concepts in a specific
+language. *This idea is better, I think*
+
+ex: object oriented paradigm
+----> what is a class -> explanation
+----> define a class in:
+-------- dart
+-------- python
+
+
+talking about all programming concepts and then in other place in the book
+talking about examples. *I don't think this is a good idea.*
+
+
+
+* CHAPTER ONE: PROGRAMMING COMPUTERS
+# how computers work
+# what is a programming language
+# how to program a computer
+# how virtual machines work
+# how web works
+# web technologies
+# how dart like programming languages run on virtual machine
+# programming languages and concepts behind them lambda calculus
+# scriptting languages
+# aot & jit compiling
+# flow chart
+# flow of programs
+# programming paradigms
+GOLNORE
+SOHROBE
+
+* CHAPTER TWO: PROGRAMMING PARADIGMS
+# introducing object oriented programming concepts in general without code
+
+* CHAPTER ONE: ONCE UPON A TIME, DART
+# what problems were in the technology before dart
+# no naming dart in this chapter
+# dart comes to answer JavaScript's shortcomings
+# dart is a solution not the solution
+# how computers execute programs
+# why someone ends up with dart
+# a little bit of history
+# Dart wants to target everything
+# dart first want to target web but now everything
+# dart design principles
+# how dart executes a program
+# overview of the whole Dart language
+# aot compiler vs jit compiler
+# dart cons and pros
+# dart future
+# dart is known by flutter framework
+# what sb should want to end up with dart? dart answer to what questions
+# how dart render gui and use native API
+# how dart executes programs
+
+* CHAPTER TWO: INTRODUCING DART
+talking about main features of dart. naming conventions. comments. C like
+grammar.
+# dart is a pure object oriented language
+# - what is an object?
+# - what is object oriented programming
+# - little bit of history about object oriented programming paradigm
+# - inheritance
+# - user defined types
+
+* CHAPTER THREE: DATA IN DART
+-- TYPE
+-- induce type from value
+-- variables
+-- built in types
+-- operators
+-- expressions
+
+* CHAPTER FOUR: CONTROLLING THE FLOW
+-- what is a statement
+-- if
+-- if else
+-- while
+-- do while
+-- for
+-- for in
+-- switch case
+-- collection if
+-- collection for

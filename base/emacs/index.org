@@ -1,6 +1,0 @@
-#+title: Emacs
-
-* Table of Contents :toc@4:
-- [[#version-control][Version Control]]
-
-* Version Control

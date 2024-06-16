@@ -1,0 +1,9 @@
+:PROPERTIES:
+:TITLE: If Statement
+:DEPENDENCIES: O
+:END:
+
+
+#+begin_src ebnf
+⟨ifStatement⟩ ::= if ‘(’ ⟨expression⟩ ‘)’ ⟨statement⟩ (else ⟨statement⟩)?
+#+end_src
